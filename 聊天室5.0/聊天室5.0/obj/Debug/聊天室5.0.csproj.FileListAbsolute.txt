@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\bin\Debug\聊天室5.0.exe.config
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\bin\Debug\聊天室5.0.exe
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\bin\Debug\聊天室5.0.pdb
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\obj\Debug\聊天室5.0.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\obj\Debug\聊天室5.0.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\obj\Debug\聊天室5.0.exe
+C:\Users\Administrator\source\repos\聊天室5.0\聊天室5.0\obj\Debug\聊天室5.0.pdb

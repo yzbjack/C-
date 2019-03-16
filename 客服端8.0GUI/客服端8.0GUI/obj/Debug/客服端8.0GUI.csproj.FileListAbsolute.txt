@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\bin\Debug\客服端8.0GUI.exe.config
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\bin\Debug\客服端8.0GUI.exe
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\bin\Debug\客服端8.0GUI.pdb
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8.0GUI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8._0GUI.Form1.resources
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8._0GUI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8.0GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8.0GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8.0GUI.exe
+C:\Users\Administrator\source\repos\客服端8.0GUI\客服端8.0GUI\obj\Debug\客服端8.0GUI.pdb
